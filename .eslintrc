@@ -35,9 +35,18 @@
           "object",
           "unknown"
         ],
-        "newlines-between": "always"
+        "newlines-between": "always",
+        "pathGroups": [
+          {
+            "pattern": "~/pages/**",
+            "group": "sibling"
+          }
+        ]
       }
     ],
+    "import/extensions": [2, "never", {
+        "css": "always"
+      }],
     "prettier/prettier": 2,
     "react/react-in-jsx-scope": 0,
     "react/jsx-sort-props": [2, {
