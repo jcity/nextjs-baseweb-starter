@@ -37,6 +37,11 @@
     ],
     "prettier/prettier": 2,
     "react/react-in-jsx-scope": 0,
+    "react/jsx-sort-props": [2, {
+      "callbacksLast": true,
+      "shorthandFirst": true,
+      "ignoreCase": true
+    }],
     "sort-keys": [2, "asc", { "caseSensitive": true }],
     "typescript-sort-keys/interface": "error",
     "typescript-sort-keys/string-enum": "error",
