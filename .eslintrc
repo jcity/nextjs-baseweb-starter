@@ -42,7 +42,7 @@
       "shorthandFirst": true,
       "ignoreCase": true
     }],
-    "sort-keys": [2, "asc", { "caseSensitive": true }],
+    "sort-keys-fix/sort-keys-fix": [2, "asc", { "caseSensitive": true }],
     "typescript-sort-keys/interface": "error",
     "typescript-sort-keys/string-enum": "error",
     "@typescript-eslint/explicit-module-boundary-types": 0
