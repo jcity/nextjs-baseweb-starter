@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "dev": "next dev",
+    "dev": "NODE_OPTIONS='--inspect' next dev",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prettier-format": "prettier --config .prettierrc './**/*.{ts,tsx}' --write",
     "start": "next start"
