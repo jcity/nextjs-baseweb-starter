@@ -2,8 +2,6 @@
 
 - Add BaseWeb
 
-- Add Jest
-
 ## Getting Started
 
 Run the development server:
