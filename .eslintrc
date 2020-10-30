@@ -1,0 +1,45 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "plugins": [
+    "@typescript-eslint",
+    "import",
+    "prettier",
+    "sort-keys-fix",
+    "typescript-sort-keys"
+  ],
+  "extends": [
+    "airbnb-typescript",
+    "airbnb/hooks",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:import/typescript",
+    "prettier",
+    "prettier/react"
+  ],
+  "rules": {
+    "import/order": [2, {
+        "groups": [
+          "builtin",
+          "external",
+          "internal",
+          "sibling",
+          "parent",
+          "index",
+          "object",
+          "unknown"
+        ],
+        "newlines-between": "always"
+      }
+    ],
+    "prettier/prettier": 2,
+    "react/react-in-jsx-scope": 0,
+    "sort-keys": [2, "asc", { "caseSensitive": true }],
+    "typescript-sort-keys/interface": "error",
+    "typescript-sort-keys/string-enum": "error",
+    "@typescript-eslint/explicit-module-boundary-types": 0
+  }
+}
