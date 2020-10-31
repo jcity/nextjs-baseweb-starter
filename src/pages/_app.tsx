@@ -1,8 +1,10 @@
 import App from 'next/app';
 import { Provider as StyletronProvider } from 'styletron-react';
-import { LightTheme, DarkTheme, BaseProvider } from 'baseui';
+import { LightTheme, BaseProvider } from 'baseui';
 
 import { styletron, debug } from '../styletron';
+
+import '~/styles/globals.css';
 
 export default class MyApp extends App {
   render() {
