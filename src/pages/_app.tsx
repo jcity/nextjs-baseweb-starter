@@ -12,7 +12,6 @@ export default class MyApp extends App {
     return (
       <StyletronProvider debugAfterHydration debug={debug} value={styletron}>
         <BaseProvider theme={LightTheme}>
-          {/* eslint-disable-next-line react/jsx-props-no-spreading */}
           <Component {...pageProps} />
         </BaseProvider>
       </StyletronProvider>

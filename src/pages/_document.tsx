@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-props-no-spreading */
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import Document, { Head, Html, Main, NextScript } from 'next/document';
 import { Provider as StyletronProvider } from 'styletron-react';
