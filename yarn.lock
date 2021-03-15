@@ -3854,10 +3854,10 @@ eslint-plugin-babel@^5.3.1:
   dependencies:
     eslint-rule-composer "^0.3.0"
 
-eslint-plugin-baseui@^9.104.0:
-  version "9.104.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.104.0.tgz#a1df735dc08d997ca789ad4c8bef40cd3d1ac46c"
-  integrity sha512-ekeJC9jwWXqVarbIRP2nrAu6Gi7EEFYmjTkd7rRVUu5BLIHz+h6c2RGml3cQa3MRS1jIqup/8Aom1MHazGPQmQ==
+eslint-plugin-baseui@^9.111.2:
+  version "9.111.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.111.2.tgz#bdaafd2308c5925a00fda1e0f435f1de4f750077"
+  integrity sha512-yZjyRQKbAyrjXLlgkFrb94lRqUN/IFG81aUk8VMjqDGAe1uAsQlMlThOVR49sl4gjav+NR1NapJcXEOEZbvSuA==
 
 eslint-plugin-flowtype@^5.2.0:
   version "5.2.0"
