@@ -2402,10 +2402,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.104.0:
-  version "9.104.0"
-  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.104.0.tgz#01159844476d89e2a82d7cd52d65cfcf4c76a1d9"
-  integrity sha512-skT59q6IWPlNbSUv07eEPxHYZ0D1XlihbrGtxf1t7JHoc0asYgJhf+wMqmRMVbYiAlWDYnBLd82nHMMLzmrj9w==
+baseui@^9.115.1:
+  version "9.115.1"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.115.1.tgz#fd602d2d14e7a8d6a6f9328c15860344ee17c7d2"
+  integrity sha512-8XZJa8vYOkhe9sYSCCIc0Z+tKKP2ehFhL/Uuivh3lUJ5xWJEdpvBlsMppccp7tUSZkv/iw5eX4vQ/UUhkGmqLQ==
   dependencies:
     "@date-io/date-fns" "^2.6.2"
     card-validator "^6.2.0"
@@ -2413,14 +2413,13 @@ baseui@^9.104.0:
     glob "^7.1.6"
     just-extend "^4.0.2"
     memoize-one "^5.1.1"
-    next-transpile-modules "^3.3.0"
     polished "^3.2.0"
     popper.js "^1.16.0"
     react-dropzone "^9.0.0"
     react-focus-lock "^2.2.1"
     react-input-mask "^2.0.4"
     react-is "^16.8.6"
-    react-movable "^2.4.0"
+    react-movable "^2.5.4"
     react-multi-ref "^1.0.0"
     react-range "^1.8.0"
     react-uid "^2.3.0"
@@ -6244,14 +6243,6 @@ next-tick@~1.0.0:
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
   integrity sha1-yobR/ogoFpsBICCOPchCS524NCw=
 
-next-transpile-modules@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/next-transpile-modules/-/next-transpile-modules-3.3.0.tgz#90f197d1ceda2a2ce7a4f423b262320354456abf"
-  integrity sha512-QIaBunwtC9oNaluQvfJw5hv1uXSAlTzDCc7/FUxZw5Rnm0yo1HJjW6YodFvA+7Xm9k/2fZV2itF99vMBwTOUjQ==
-  dependencies:
-    micromatch "^4.0.2"
-    slash "^3.0.0"
-
 next@10.0.1:
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/next/-/next-10.0.1.tgz#e1366b41b8547dfc7e9a14d1f7dd8a8584dcf0b2"
@@ -7237,10 +7228,10 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-movable@^2.4.0:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/react-movable/-/react-movable-2.5.3.tgz#9510139c4762d783117d34fd2d816d3d63180113"
-  integrity sha512-CazVL7eN4QTAEPwBlcp9101SAytzakpePa3b/lLpsTZyJn3z1uRbqiWA/NTQDjPvPj8h9ws8j8uUr8TBJTiJiw==
+react-movable@^2.5.4:
+  version "2.5.4"
+  resolved "https://registry.yarnpkg.com/react-movable/-/react-movable-2.5.4.tgz#1c28e8291476ab19b8625d06b60f97a89dd85a45"
+  integrity sha512-F+Ml4Il9S7uyY2Nr/UzwnXxWewwsHdQkmwgzAjk+Dsz73sy2yCJk7GkQkdqmh8W6XXTlviepz1VA0eHUWh9MZQ==
 
 react-multi-ref@^1.0.0:
   version "1.0.0"
