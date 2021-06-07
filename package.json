@@ -38,7 +38,7 @@
     "eslint-config-fbjs": "^3.1.1",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-babel": "^5.3.1",
-    "eslint-plugin-baseui": "^9.104.0",
+    "eslint-plugin-baseui": "^9.116.0",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.3.1",
